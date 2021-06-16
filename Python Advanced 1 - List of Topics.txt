@@ -1,0 +1,61 @@
+==== Python Advanced #1 List of Topics =========
+=>Decorators
+1. Decorators 1
+2. Higher Order Functions
+3. Decorators 2
+4. Why we need Decorators
+=> Advanced Python -- Error Handling 
+5. Errors in python
+6. Error Handling 1
+7. Error Handling 2
+8. Error Handling 3
+==>Advance Python -- Generators 
+9. Generators 1
+10. Generators 2
+11. Generator performance
+12. Under the hood of Generator
+13. 100 python Excercise
+==> Modules In Python
+14. Modules 
+15. Package in python
+16. Different ways to import
+17. __name__
+18. python buit in modules 1
+19. python buit in modules 2
+20. Excercise - Guessing Game
+21. Python package index
+22. Pip install
+23. Virtual environments
+24. Useful Modules 1
+25. Interesting Tidbit: Python dictionaries
+26. Useful Modules 2
+27. Developer Fundamentals IV
+==> Debugging Fundamentals
+28. Debugging - how to do in python
+==> File Handling I/O
+29. Working with Files in python
+30. Read Write Append
+31. File Paths
+32. File: IO Error
+33. Excercise: Translators
+==> Regular Expressions
+34. Regular Expressions 1
+35. Regular Expressions 2
+36. Excercise: Interactive RegEx
+37. Regular Expressions 3
+38. Excercise: Password Validations
+==> Testing in Python
+39. Testing Intro for python
+40. Unit Testing
+41. writing Unit Test 1
+42. Writing Unit Test 2
+43. Excercise: Testing
+==> Scripting with python
+44. Section overview
+45. What is image processing
+46. Developer Fundamentals 7
+47. Image with python 1
+48. Image with python 2
+49. Image with python 3
+50. Excercise: JPG to PNG Convert
+51. 

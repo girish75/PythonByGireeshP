@@ -1,0 +1,104 @@
+==== Python Fundamentals Topics List ==== 
+
+1. What is a programming language
+2. Python Interpreter
+3. How to run python code
+4. Jumping to Developer environment
+5. First python program
+6. Latest version of python
+7. Python datatypes
+8. Number functions
+9. math Functions
+10. Operator precedence
+11. Binary and complex
+12. Variables
+13. Expression vs Statements
+14. Augmented assignment operators
+15. String operators
+16. String concatenation
+17. Type conversion
+18. Escape Sequence
+19. Formatting String
+20. String Indexes
+21. Immutables
+22. Built in functions and methods
+23. Booleans
+24. List
+25. List methods 1
+26. List Methods 2
+27. List Methods 3
+28. Common list patterns
+29. List Unpacking
+30. dictionaries
+31. Dictionary keys
+32. Dictionary Methods 1
+33. Dictionary Methods 2
+34. Tuples 1
+35. Tuples 2
+36. sets 1
+37. Sets 2
+38. Breaking the Flow
+39. Conditional logic
+40. Indentation in Python
+41. Truthy vs Falsey
+42. Ternary Opereators
+43. Short Circuiting 
+44. Logical operators
+45. For Loops
+46. Iterables
+47. Range
+48. Enumerators
+49. While Loops 1
+50. While Loops 2
+51. Break, Continoue, Pass
+52. Functions
+53. Prameters and Arugments
+54. Default Prameters and Keyword Arugments
+55. Return
+56. Methods vs functions
+57. Docstrings
+58. Clean code
+59. args and kwargs
+60. Walrus operators
+61. Scope
+62. Scope rules
+63. Global keywards
+64. nonlocal keywards
+65. Python Install
+66. Python developer tools
+67. Sublime text
+68. Optional - Terminal keywords
+69. iTerm Setup
+70. Usign command line terminals
+71. Visual studio code intro
+72. Pycharm Intro
+73. code formatting - PEP 8
+74. Jupyter notebook
+75. Section review
+76. Note on upcoming sections
+77. What is Oops 1
+78. Oops 2
+79. Creating our own objects
+80. Attributes and Methods
+81. __init__
+82. @classmethods and @static Methods
+83. Encapsulation
+84. Abstraction
+85. Private and public variables
+86. Inheritance 1
+87. Inheritance 2
+88. Polymorphism
+89. super()
+90. Object Introspections
+91. Dunder methods
+93. Multiple Inheritance
+94. MRO- Method Resolution Order
+95. Functional Programming
+96. Pure Functions
+97. map()
+98. Filter()
+99. ZIP()
+100. Reduce()
+101. Lambda functions
+102. List comprehension
+103. set and Dictionary Comprehensions
