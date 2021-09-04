@@ -1,5 +1,7 @@
 # PythonByGirishPareek
+=========================================================
 Python Tutorial by Girish Pareek
+=========================================================
 
 Python (I'll be using 3.9.1): https://python.org/downloads
 
@@ -9,7 +11,7 @@ An IDE : https://code.visualstudio.com
 
 
 Resources:
----------
+=========================================================
 A. Know why
 1. https://mailchimp.com/
 2. https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
@@ -72,6 +74,29 @@ $ conda deactivate
 
 $ conda activate [ENV_NAME]
 
+
+
+
+
+Section: Scraping Data with Python
+===========================================================
+https://www.excellarate.com/blogs/web-scraping-introduction-applications-and-best-practices/#:~:text=Web%20scraping%20typically%20extracts%20large,show%20data%20from%20a%20website.
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+pip or conda install beautifulsoup4 --- This is just a liberary
+https://pypi.org/project/requests/  # Requests is a simple, yet elegant HTTP library.
+pip or conda install requests
+https://scrapy.org/ -- This is a framework - (Separate learning). 
+
+Web Development with Python
+========================================================
+docs.python.org/
+=>Http server: https://docs.python.org/3/library/http.server.html
+flask.palletsprojects.com
+djangoprojects.com
+
+Python environment and shell:
+=========================================================
+https://docs.python.org/3/library/venv.html
 
 
 
